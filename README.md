@@ -22,12 +22,7 @@ This repository accompanies our survey, [**A Survey of Trustworthiness Benchmark
 
 ## 📚 Benchmark Collection
 
-> **Updated 15 September 2026:** 21 additional benchmarks that fully satisfy the survey inclusion criteria were added after manual verification of scope, venue status, and public resources.
-
 > **Reading the table:** Trustworthiness domains are **multi-label**. A benchmark can therefore carry more than one tag. `—` indicates that no public GitHub or Hugging Face resource was verified. Rows are ordered by **year (newest first)** and, within each year, **peer-reviewed or formally accepted works are listed before preprints/working papers**. When a venue version is available, it is preferred over the corresponding preprint. Resource links and venue status were re-checked on **15 September 2026**; formal venue versions are used whenever a verified accepted/published version is available.
-
-
-> **Second-pass verification (15 September 2026):** publication status, preferred paper version, and all previously blank GitHub / Hugging Face cells were re-checked against venue pages, author/project pages, repositories, and Hugging Face. For works whose acceptance is publicly reported but whose proceedings page is not yet indexed, the accepted venue is shown while the arXiv paper link is retained. A `—` now means that no canonical public resource URL could be independently verified; see the verification notes below for exceptions where a paper claims an artifact exists but its public URL could not be recovered.
 
 | Year | Benchmark | Trustworthiness Domain | Venue | Paper | GitHub | Hugging Face |
 | ---: | --- | --- | --- | :---: | :---: | :---: |
