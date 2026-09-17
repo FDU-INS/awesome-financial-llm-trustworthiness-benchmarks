@@ -8,7 +8,6 @@ This repository accompanies our survey, [**A Survey of Trustworthiness Benchmark
 
 - **102 benchmarks** covering trustworthiness evaluation for financial LLMs and agentic systems.
 - **5 trustworthiness dimensions:** 🛡️ **Safety & Compliance**, ✅ **Reliability & Truthfulness**, ⚖️ **Fairness**, 🔐 **Privacy**, and 🧱 **Robustness**.
-- **Three benchmark types:** the collection follows the survey's corpus definition and includes (1) **finance-specific trustworthiness benchmarks**, whose complete benchmark is analyzed; (2) **broader financial benchmarks with clearly separable trustworthiness components**, for which only the trustworthiness-related components are considered; and (3) **general LLM trustworthiness benchmarks with identifiable financial tasks or scenarios**, for which only the finance-related components are considered.
 - **Unified resource index:** paper, GitHub/code, and Hugging Face links are collected in a single de-duplicated table.
 - The accompanying survey analyzes this landscape through a **Coverage–Fidelity–Measurement** framework, connecting *what* is evaluated, *how realistically* it is evaluated, and *how* trustworthiness is measured.
 
